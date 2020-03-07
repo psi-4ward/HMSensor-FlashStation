@@ -17,7 +17,7 @@ Auf dem Testaufbau sind **P75-B1 Pogo Pins** verbaut.
 ## Features
 
 * DIP-Schalter um die Versorgungsspannungen zu schalten.
-* VCC-Jumper: Z.B. um ein Strommessung zwischen zu schalten.
+* VCC-Jumper: z.B. um eine Strommessung zwischen zu schalten.
 * 5x2 Pin ISP Header, kompatibel mit Diamex oder USBasp
 * FTDI Header
 
