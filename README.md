@@ -24,7 +24,7 @@ Auf dem Testaufbau sind **P75-B1 Pogo Pins** verbaut.
 * 5x2 Pin ISP Header, kompatibel mit Diamex oder USBasp
 * FTDI Header
 
-![HMSensor-FlashStation](./images/top.svg)
+![HMSensor-FlashStation](./images/top.png)
 
 ![HMSensor-FlashStation](./images/HMSensor-FlashStation_2.jpg)
 
