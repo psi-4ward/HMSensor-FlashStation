@@ -16,6 +16,7 @@ Auf dem Testaufbau sind **P75-B1 Pogo Pins** verbaut.
 * RX/TX ist _nicht_ gedreht gegenüber dem USB-UART. Entweder FTDI über JumperWire anschließen und RX/TX drehen oder den Fehler mit Draht auf der Platine beheben.
 * RESET Kondensator fehlt
 
+=> [v1.0 BugFix Guide](./v1.0-bugfix-guide/README.md)
 
 ## Features
 
