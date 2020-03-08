@@ -11,7 +11,8 @@ HMSensor versucht eine universelle Hardware-Basis für AskSin++ Sensoren und Akt
 
 Auf dem Testaufbau sind **P75-B1 Pogo Pins** verbaut.
 
-:bangbang::bug: **Fehler in v1.0**:
+## :bangbang::bug: **Fehler in v1.0** :bangbang:
+
 * RX/TX ist _nicht_ gedreht gegenüber dem USB-UART. Entweder FTDI über JumperWire anschließen und RX/TX drehen oder den Fehler mit Draht auf der Platine beheben.
 * RESET Kondensator fehlt
 
