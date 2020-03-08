@@ -33,9 +33,10 @@ Auf dem Testaufbau sind **P75-B1 Pogo Pins** verbaut.
 
 ## Changelog / Notes
 
-### v1.0
+### v1.1
 
-* Fehler im PCB-Design: RX/TX ist _nicht_ gedreht gegenüber dem USB-UART
+* Fehler Behoben im PCB-Design: RX/TX ist _nicht_ gedreht gegenüber dem USB-UART
+* RESET Kondensator hinzugefügt
 
 
 ## Lizenz
